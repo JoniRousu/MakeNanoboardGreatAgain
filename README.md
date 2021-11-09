@@ -7,7 +7,7 @@ Für Mozilla Firefox Greasemonkey: <https://addons.mozilla.org/de/firefox/addon/
 
 Für Google Chrome Tampermonkey: <https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de>
 
-Dann das Skript (hier im Ordner) öffnen und den Inhalt komplett in ein neues Skript einfügen (heißt: alles was standardmäßig da ist vorher löschen). Oder unter Hilfsmittel in die Installation via URL - Box die URL <https://tinyurl.com/v24q825> eingeben.
+Dann das Skript (hier im Ordner) öffnen und den Inhalt komplett in ein neues Skript einfügen (heißt: alles was standardmäßig da ist vorher löschen). Oder unter Hilfsmittel in die Installation via URL - Box die URL <https://tinyurl.com/mnbga> eingeben.
 
 Auf https://nanoboard.iw.uni-due.de/ gehen, den Anweisungen folgen und ins Nanoboard.
 
