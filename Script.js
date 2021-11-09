@@ -6,7 +6,7 @@
 // @author       JR
 // @match        https://benutzerverwaltung.uni-due.de/auth/openid_a/login/*
 // @grant        none
-// @downloadURL  https://tinyurl.com/mnbga
+// @downloadURL  https://tinyurl.com/mnanobga
 // ==/UserScript==
 
 (function() {
